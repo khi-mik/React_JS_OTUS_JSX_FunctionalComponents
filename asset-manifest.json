@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OTUS_ReactJS/static/css/main.39bed9a7.css",
+    "main.js": "/OTUS_ReactJS/static/js/main.fe991409.js",
+    "static/js/787.8b4f2dc8.chunk.js": "/OTUS_ReactJS/static/js/787.8b4f2dc8.chunk.js",
+    "index.html": "/OTUS_ReactJS/index.html",
+    "main.39bed9a7.css.map": "/OTUS_ReactJS/static/css/main.39bed9a7.css.map",
+    "main.fe991409.js.map": "/OTUS_ReactJS/static/js/main.fe991409.js.map",
+    "787.8b4f2dc8.chunk.js.map": "/OTUS_ReactJS/static/js/787.8b4f2dc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39bed9a7.css",
+    "static/js/main.fe991409.js"
+  ]
+}
