@@ -1,0 +1,21 @@
+info @storybook/react v6.4.22
+info 
+info => Cleaning outputDir: C:\\Users\\Miha\\AppData\\Local\\Temp\\chromatic--7092-emiKsuSPeaOl
+(node:1672) DeprecationWarning: --static-dir CLI flag is deprecated, see:
+
+https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#deprecated---static-dir-cli-flag
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ERR! Error: No configuration files have been found in your configDir (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\.storybook).
+ERR! Storybook needs either a "main" or "config" file.
+ERR!     at validateConfigurationFiles (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-common\dist\cjs\utils\validate-configuration-files.js:50:11)
+ERR!     at loadCustomPresets (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-common\dist\cjs\utils\load-custom-presets.js:19:62)
+ERR!     at loadAllPresets (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-common\dist\cjs\presets.js:342:131)
+ERR!     at buildStaticStandalone (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-server\dist\cjs\build-static.js:97:48)
+ERR!     at async buildStatic (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-server\dist\cjs\build-static.js:195:5)
+ERR!  Error: No configuration files have been found in your configDir (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\.storybook).
+ERR! Storybook needs either a "main" or "config" file.
+ERR!     at validateConfigurationFiles (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-common\dist\cjs\utils\validate-configuration-files.js:50:11)
+ERR!     at loadCustomPresets (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-common\dist\cjs\utils\load-custom-presets.js:19:62)
+ERR!     at loadAllPresets (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-common\dist\cjs\presets.js:342:131)
+ERR!     at buildStaticStandalone (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-server\dist\cjs\build-static.js:97:48)
+ERR!     at async buildStatic (C:\OTUS\GitHub\React_JS_OTUS_JSX_FunctionalComponents\node_modules\@storybook\core-server\dist\cjs\build-static.js:195:5)
